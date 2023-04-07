@@ -3,7 +3,7 @@ import './App.css';
 
 
 function App() {
-  let a  = 3
+  const a  = 3
   console.log(3);
   return (
     <>
